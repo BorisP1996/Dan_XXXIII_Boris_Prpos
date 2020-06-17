@@ -9,6 +9,7 @@ namespace Zadatak_1
     {
         static void Main(string[] args)
         {
+            //check
             ThreadClass tc = new ThreadClass();
             //creating list of threads, created thread will be added here
             List<Thread> threadList = new List<Thread>();
